@@ -4,6 +4,7 @@
 ---
 
 #### 1. Install Required Packages
+This task require torch >= 2.6.0 & CUDA >- 11.8
 
 ```bash
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
