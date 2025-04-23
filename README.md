@@ -27,3 +27,5 @@ Run the training scripts under `./scripts` folder.
 #### 5. Trained Models
 
 Due to limited computational resouces, only few-shot experiments were tried. Check them in `./trained_models` folder.
+![image](https://github.com/user-attachments/assets/66bfa929-3b32-40cd-b25a-5b0c73f6aac5)
+
