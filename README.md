@@ -1,6 +1,6 @@
 # Wavelet Enhanced In-context Time Series Predictor
 # AMA564 Deep Learning individual project
-
+dropbox: https://www.dropbox.com/scl/fi/zcnwnk40ajk9l0wwtnoc7/AMA564_Course_Project_Introduction.mp4?rlkey=gtb8v77kfzojzhfih4jxt4n27&st=76jnuqyb&dl=0
 ---
 
 #### 1. Install Required Packages
